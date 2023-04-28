@@ -8,7 +8,7 @@ number of times. Please run them to check your work.
 It may be helpful to refer to the SQL Zoo exercises for guidance as you work
 through these problems. Also make sure to reference the past Active Record
 readings as well as the [Active Record docs][active-record-docs].
-
+ 
 ## Learning goals
 
 By the end of this project you should be able to
@@ -62,7 +62,7 @@ found below:
 #  yr          :integer          not null
 #  score       :float            not null
 #  votes       :integer          not null
-#  director_id :bigint           
+#  director_id :bigint
 #  created_at  :datetime         not null
 #  updated_at  :datetime         not null
 #
